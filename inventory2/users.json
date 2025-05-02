@@ -1,0 +1,12 @@
+[
+    {
+        "username": "wensleyjeff15",
+        "password": "$2y$10$PJ2yNTZrV4fRnS9Az8XsWuQmnkhhICrf2RBclfEgwDVI22lebAIqa",
+        "role": "admin"
+    },
+    {
+        "username": "jeffwensley15",
+        "password": "$2y$10$HZeQSsZWYhK2aztsLbVTyO30e4gjxteOslSAniKMYv6PXq9VHTXte",
+        "role": "admin"
+    }
+]
